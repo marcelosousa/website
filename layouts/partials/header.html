@@ -7,6 +7,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic {{ site.Data.academic.version }}">
 
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39892903-1"></script>
+   <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'UA-39892903-1');
+   </script>
+     
   {{ $scr := .Scratch }}
 
   {{/* Attempt to load superuser. */}}
@@ -120,15 +130,6 @@
 
   {{ if not site.IsServer }}
   {{ end }}
-   <!-- Global site tag (gtag.js) - Google Analytics -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39892903-1"></script>
-   <script>
-     window.dataLayer = window.dataLayer || [];
-     function gtag(){dataLayer.push(arguments);}
-     gtag('js', new Date());
-
-     gtag('config', 'UA-39892903-1');
-   </script>
 
   {{ with .OutputFormats.Get "RSS" }}
   <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ site.Title }}">
