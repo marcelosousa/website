@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Sousa</title>
+    <title>Marcelo Sousa</title>
     <link>https://marcelosousa.net/</link>
-    <description>Recent content on M. Sousa</description>
+    <description>Recent content on Marcelo Sousa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
+    <lastBuildDate>Mon, 15 Jul 2019 20:58:54 +0200</lastBuildDate>
     
 	    <atom:link href="https://marcelosousa.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Goto.dev</title>
+      <link>https://marcelosousa.net/project/gotodev/</link>
+      <pubDate>Mon, 15 Jul 2019 20:58:54 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/project/gotodev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verified Tree-Way Program Merge</title>
+      <link>https://marcelosousa.net/talk/verified-3way-merge/</link>
+      <pubDate>Fri, 09 Nov 2018 13:30:00 -0500</pubDate>
+      
+      <guid>https://marcelosousa.net/talk/verified-3way-merge/</guid>
+      <description>&lt;p&gt;Even though many programmers rely on 3-way merge tools to integrate changes from different branches, such tools can introduce subtle bugs in the integration process. This paper aims to mitigate this problem by defining a semantic notion of conflict-freedom, which ensures that the merged program does not introduce new unwanted behaviors. We also show how to verify this property using a novel, compositional algorithm that combines lightweight summarization for shared program fragments with precise relational reasoning for the modifications. Towards this goal, our method uses a 4-way differencing algorithm on abstract syntax trees to represent different program versions as edits applied to a shared program with holes. This representation allows our verification algorithm to reason about different edits in isolation and compose them to obtain an overall proof of conflict freedom. We have implemented the proposed technique in a new tool called SafeMerge and evaluate it on 52 real-world merge scenarios obtained from Github. The experimental results demonstrate the benefits of our approach over syntactic conflict-freedom and indicate that SafeMerge is both precise and practical.&lt;/p&gt;
+
+&lt;p&gt;Joint-work with Isil Dillig and Shuvendu Lahiri.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

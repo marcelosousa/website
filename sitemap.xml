@@ -3,21 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://marcelosousa.net/authors/admin/</loc>
-  </url>
-  
-  <url>
     <loc>https://marcelosousa.net/authors/</loc>
+    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://marcelosousa.net/categories/</loc>
+    <loc>https://marcelosousa.net/project/gotodev/</loc>
+    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/authors/marcelo-sousa/</loc>
+    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://marcelosousa.net/</loc>
+    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/project/</loc>
+    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/talk/</loc>
+    <lastmod>2019-07-15T20:44:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/talk/verified-3way-merge/</loc>
+    <lastmod>2019-07-15T20:44:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -28,10 +57,6 @@
   <url>
     <loc>https://marcelosousa.net/publication_types/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://marcelosousa.net/talk/</loc>
   </url>
   
   <url>

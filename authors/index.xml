@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on M. Sousa</title>
+    <title>Authors on Marcelo Sousa</title>
     <link>https://marcelosousa.net/authors/</link>
-    <description>Recent content in Authors on M. Sousa</description>
+    <description>Recent content in Authors on Marcelo Sousa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
+    <lastBuildDate>Mon, 15 Jul 2019 20:58:54 +0200</lastBuildDate>
     
 	<atom:link href="https://marcelosousa.net/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marcelo Sousa</title>
+      <link>https://marcelosousa.net/authors/marcelo-sousa/</link>
+      <pubDate>Mon, 15 Jul 2019 20:58:54 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/authors/marcelo-sousa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -17,9 +27,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://marcelosousa.net/authors/admin/</guid>
-      <description>I am interested in the analysis of automated reasoning procedures in the context of programming languages and formal software verification.
-In particular, I have been investigating redundancy-aware procedures in static analysis, compiler optimizations and state-space exploration methods mostly connected to relational verification and concurrent systems.
-I am the recipient of the 2016 Google PhD Fellowship in Programming Languages and Software Engineering.</description>
+      <description>I am working on technologies and methodologies towards a new generation of products that improve how people collaborate with others and their cyber-physical ecosystems.
+My current interests encompass a broad spectrum of areas from computer-aided software verification and developer tools to help developers produce high-reliability and high-quality software faster to the combination of robotics, IoT and architecture to improve the quality of life of those who live in highly populated areas.</description>
     </item>
     
   </channel>

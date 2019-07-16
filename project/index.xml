@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Marcelo Sousa</title>
+    <link>https://marcelosousa.net/project/</link>
+    <description>Recent content in Projects on Marcelo Sousa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
+    <lastBuildDate>Mon, 15 Jul 2019 20:58:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://marcelosousa.net/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Goto.dev</title>
+      <link>https://marcelosousa.net/project/gotodev/</link>
+      <pubDate>Mon, 15 Jul 2019 20:58:54 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/project/gotodev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
