@@ -7,10 +7,32 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
-    <lastBuildDate>Wed, 07 Aug 2019 17:51:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 20:35:09 +0200</lastBuildDate>
     
 	    <atom:link href="https://marcelosousa.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug Bounty Summer 2019</title>
+      <link>https://marcelosousa.net/post/bug-bounty/</link>
+      <pubDate>Wed, 07 Aug 2019 20:35:09 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/bug-bounty/</guid>
+      <description>&lt;p&gt;There is an increasing trend to use bug bounty programs to complement &amp;ldquo;certified&amp;rdquo; security. Some exciting news from this summer include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The Digital Defense Service finds bug bounty programs more cost-effective than hiring &amp;ldquo;security&amp;rdquo; companies for penetration testing (&lt;a href=&#34;https://www.cnet.com/news/how-the-air-force-relied-on-hackers-to-secure-its-move-to-the-cloud/&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;). Truth is that hackers found 46 vulnerabilities after security auditors gave the all clear!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Microsoft shared this week at Black Hat that it has given $4.4 million in bounty rewards over the past 12 months. The top Azure bug bounty is now at $40,000 (&lt;a href=&#34;https://venturebeat.com/2019/08/05/microsoft-launches-azure-security-lab-doubles-top-bug-bounty-to-40000/&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;). Excited to look more into the Azure Security Lab!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Google has also increased the value of bug bounties  recently (&lt;a href=&#34;https://www.cnet.com/news/google-will-now-pay-up-to-30000-for-reporting-a-chrome-bug/&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In Jan 2019, the European Union launched a bug bounty program on popular open source software with a pool of ~$1M (&lt;a href=&#34;https://www.welivesecurity.com/2019/01/07/eu-bounty-bugs-open-source-software/&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;According to HackerOne, Paypal has spent $1,411,230 in their bug bounty program launched on Aug 2018 (&lt;a href=&#34;https://hackerone.com/paypal&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Million Dollar</title>
