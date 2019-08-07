@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 20:58:54 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Nov 2018 13:30:00 -0500</lastBuildDate>
     
 	<atom:link href="https://marcelosousa.net/authors/marcelo-sousa/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Goto.dev</title>
-      <link>https://marcelosousa.net/project/gotodev/</link>
-      <pubDate>Mon, 15 Jul 2019 20:58:54 +0200</pubDate>
-      
-      <guid>https://marcelosousa.net/project/gotodev/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Verified Tree-Way Program Merge</title>

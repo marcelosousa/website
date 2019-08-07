@@ -3,31 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://marcelosousa.net/authors/</loc>
-    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://marcelosousa.net/project/gotodev/</loc>
-    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marcelosousa.net/authors/marcelo-sousa/</loc>
-    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://marcelosousa.net/</loc>
-    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
+    <lastmod>2019-08-07T17:51:29+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/project/million-dollar/</loc>
+    <lastmod>2019-08-07T17:51:29+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://marcelosousa.net/project/</loc>
-    <lastmod>2019-07-15T20:58:54+02:00</lastmod>
+    <lastmod>2019-08-07T17:51:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/project/big-data/</loc>
+    <lastmod>2019-08-07T17:47:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/project/code-analysis/</loc>
+    <lastmod>2019-08-07T17:01:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/authors/</loc>
+    <lastmod>2019-07-15T20:44:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/authors/marcelo-sousa/</loc>
+    <lastmod>2019-07-15T20:44:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   

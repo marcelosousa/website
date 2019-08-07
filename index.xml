@@ -7,18 +7,47 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 20:58:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 17:51:29 +0200</lastBuildDate>
     
 	    <atom:link href="https://marcelosousa.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Goto.dev</title>
-      <link>https://marcelosousa.net/project/gotodev/</link>
-      <pubDate>Mon, 15 Jul 2019 20:58:54 +0200</pubDate>
+      <title>Million Dollar</title>
+      <link>https://marcelosousa.net/project/million-dollar/</link>
+      <pubDate>Wed, 07 Aug 2019 17:51:29 +0200</pubDate>
       
-      <guid>https://marcelosousa.net/project/gotodev/</guid>
+      <guid>https://marcelosousa.net/project/million-dollar/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Data Scope</title>
+      <link>https://marcelosousa.net/project/big-data/</link>
+      <pubDate>Wed, 07 Aug 2019 17:47:27 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/project/big-data/</guid>
+      <description>&lt;p&gt;Information is now the most valuable commodity in the global economy surpassing oil. As individuals, we can access data pools (through Google, Facebook, Amazon, etc.) but are quite clueless to what portion of the pool we are actually allowed to view and influence.
+Besides the fact that this data is being used for targeted ads and privacy violations, we need to start building tools that understand how much information related to a topic we have access to.
+I believe this is of the upmost importance since it directly impacts core cognitive processes in human development.
+I am working on tools that improve data filtering  so that not only they are exposed to reliable information but they can also understand how to progress in their learning. &lt;strong&gt;More details to follow soon!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Analysis</title>
+      <link>https://marcelosousa.net/project/code-analysis/</link>
+      <pubDate>Wed, 07 Aug 2019 17:01:50 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/project/code-analysis/</guid>
+      <description>&lt;p&gt;The importance of bug-free and maintainable software will continue to increase in the upcoming decades hand-in-hand with the growth in number of developers.
+It is very likely that by 2050, every single person under 35 years old will have the ability to modify software components that directly impact their well-being and the ones in their family nucleus.
+Providing the new generations of programmers with the right toolkit is imperative.
+I&amp;rsquo;m actively working on the combination of state-of-the-art research in mathematical logic, software analysis and technologies to build tools that understand code at the global scale (think all code snippets available online).
+Practically, my goal is that these tools become indispensable to developers on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;I am currently working on a new application called &lt;em&gt;explore.dev&lt;/em&gt;. &lt;strong&gt;More details to follow soon!&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
