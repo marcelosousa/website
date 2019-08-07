@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Goto.dev"
+title: "Million Dollar"
 subtitle: ""
 summary: ""
-authors: [Marcelo Sousa]
+authors: []
 tags: []
 categories: []
-date: 2019-07-15T20:58:54+02:00
-lastmod: 2019-07-15T20:58:54+02:00
-external_link: "https://goto.dev"
+date: 2019-08-07T17:51:29+02:00
+lastmod: 2019-08-07T17:51:29+02:00
 featured: false
+external_link: "https://github.com/marcelosousa/million-dollar-ideas"
 draft: false
 
 # Featured image
