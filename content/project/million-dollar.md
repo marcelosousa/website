@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Million Dollar"
+title: "Million Dollar Idea (Github Repository)"
 subtitle: ""
 summary: ""
 authors: []

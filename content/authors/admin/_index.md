@@ -74,16 +74,12 @@ email: ""
 
 I am working on methodologies and technologies towards a new generation of products to improve how people collaborate with others and their cyber-physical ecosystems.
 
-My interests encompass a broad spectrum of areas. Besides the ever growing list of theoretical problems, I am focused on the following: 
+My interests encompass a broad spectrum of areas: 
 
-- [Computer-aided software analysis](./project/code-analysis). I'm actively working on the combination of state-of-the-art research in mathematical logic, software analysis and technologies to build tools that understand code at the global scale (think all code snippets available online).
+- [Computer-aided software analysis](./project/code-analysis). I'm actively working on the combination of state-of-the-art research in mathematical logic, software analysis and technologies to build tools that understand code at the global scale.
 
-- [Epistemology and big data](./project/big-data). I am working on tools that improve data filtering  so that not only they are exposed to reliable information but they can also understand how to progress in their learning.
+- [Epistemology and big data](./project/big-data). I am working on tools that improve data filtering to guide people in learning processes.
 
 - The intersection of material engineering, bio-engineering, IoT and architecture.  
-
-- The process of learning (in particular natural languages) in the brain and their impact on human relationships.
-
-For more details and projects, see my [ongoing projects](#projects) and don't hesitate to contact me for more information!
-
-I hold a D.Phil. (PhD) in Computer Science from the University of Oxford. I have been fortunate to have experienced universities and companies in Portugal, Canada, The Netherlands, Switzerland, Turkey, USA and the United Kingdom. For more details on my education and industrial experience, see my [résumé](./files/cv.pdf).  
+  
+I write about Software Development and Code Quality on a weekly basis on **[Medium](https://medium.com/@marceloabsousa)**. For more details, don't hesitate to contact me!

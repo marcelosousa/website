@@ -28,10 +28,11 @@ image:
 projects: []
 ---
 
-The importance of bug-free and maintainable software will continue to increase in the upcoming decades hand-in-hand with the growth in number of developers. 
+The importance of bug-free and maintainable software will continue to increase in the upcoming decades hand-in-hand with the growth in number of developers.
 It is very likely that by 2050, every single person under 35 years old will have the ability to modify software components that directly impact their well-being and the ones in their family nucleus. 
 Providing the new generations of programmers with the right toolkit is imperative. 
+
 I'm actively working on the combination of state-of-the-art research in mathematical logic, software analysis and technologies to build tools that understand code at the global scale (think all code snippets available online). 
 Practically, my goal is that these tools become indispensable to developers on a daily basis.  
 
-I am currently working on a new application called *explore.dev*. **More details to follow soon!**
+**For more information, check [explore.dev](https://explore.dev)!**
