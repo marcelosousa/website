@@ -3,18 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://marcelosousa.net/post/bug-bounty/</loc>
-    <lastmod>2019-08-07T20:35:09+02:00</lastmod>
+    <loc>https://marcelosousa.net/bio/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://marcelosousa.net/</loc>
-    <lastmod>2019-08-07T20:35:09+02:00</lastmod>
+    <lastmod>2019-09-12T18:18:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://marcelosousa.net/post/</loc>
+    <lastmod>2019-09-12T18:18:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/post/software-development-is-complex-communication/</loc>
+    <lastmod>2019-09-12T18:18:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/post/async-magical-realism-in-computing/</loc>
+    <lastmod>2019-09-02T18:18:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/post/the-religion-of-agile/</loc>
+    <lastmod>2019-08-26T18:18:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/post/bug-bounty/</loc>
     <lastmod>2019-08-07T20:35:09+02:00</lastmod>
   </url>
   

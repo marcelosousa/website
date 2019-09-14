@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Million Dollar</title>
+      <title>Million Dollar Idea (Github Repository)</title>
       <link>https://marcelosousa.net/project/million-dollar/</link>
       <pubDate>Wed, 07 Aug 2019 17:51:29 +0200</pubDate>
       
@@ -36,7 +36,8 @@
       <pubDate>Wed, 07 Aug 2019 17:01:50 +0200</pubDate>
       
       <guid>https://marcelosousa.net/project/code-analysis/</guid>
-      <description>The importance of bug-free and maintainable software will continue to increase in the upcoming decades hand-in-hand with the growth in number of developers. It is very likely that by 2050, every single person under 35 years old will have the ability to modify software components that directly impact their well-being and the ones in their family nucleus. Providing the new generations of programmers with the right toolkit is imperative. I&amp;rsquo;m actively working on the combination of state-of-the-art research in mathematical logic, software analysis and technologies to build tools that understand code at the global scale (think all code snippets available online).</description>
+      <description>The importance of bug-free and maintainable software will continue to increase in the upcoming decades hand-in-hand with the growth in number of developers. It is very likely that by 2050, every single person under 35 years old will have the ability to modify software components that directly impact their well-being and the ones in their family nucleus. Providing the new generations of programmers with the right toolkit is imperative.
+I&amp;rsquo;m actively working on the combination of state-of-the-art research in mathematical logic, software analysis and technologies to build tools that understand code at the global scale (think all code snippets available online).</description>
     </item>
     
   </channel>

@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
-    <lastBuildDate>Wed, 07 Aug 2019 20:35:09 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 18:18:36 +0200</lastBuildDate>
     
 	<atom:link href="https://marcelosousa.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software Development Is Complex Communication</title>
+      <link>https://marcelosousa.net/post/software-development-is-complex-communication/</link>
+      <pubDate>Thu, 12 Sep 2019 18:18:36 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/software-development-is-complex-communication/</guid>
+      <description>Behind every piece of code produced by a human is an intention. The intention should answer the question: why should this code exist? Fundamentally, the quality of code is related to this intention. For example, saying that you have written an elegant piece of code without stating the intention of that code is non-sensical.
+Software developers usually call this intention specification. All software should start from an informal specification, a representation of some intention that is shared by a group of people.</description>
+    </item>
+    
+    <item>
+      <title>Async Magical Realism in Computing</title>
+      <link>https://marcelosousa.net/post/async-magical-realism-in-computing/</link>
+      <pubDate>Mon, 02 Sep 2019 18:18:24 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/async-magical-realism-in-computing/</guid>
+      <description>We are living in the era of the asynchronous — the promise land of everything will work out or will go terribly wrong but not just yet so keep on pushing. This movement has not only infiltrated our machines and how they run software but also our collaborations in extreme ways.
+Every time I think of async, the epitome of asynchronous processes, I remember this unfortunate scene of the TV show Narcos about magical realism.</description>
+    </item>
+    
+    <item>
+      <title>Agile: The Pope at the Dark Ages of Software Development</title>
+      <link>https://marcelosousa.net/post/the-religion-of-agile/</link>
+      <pubDate>Mon, 26 Aug 2019 18:18:11 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/the-religion-of-agile/</guid>
+      <description>Agile, the software development methodology turned into a religion, is built on the fallacy that the complexity inherent in the fuzzy collective intelligence of a group of people, a.k.a. thin air, can be broken up into clearly defined simple tasks.
+It is a brilliant business strategy as it shifts the error rate from the client side into the process itself. We have fewer unhappy clients because they are now a part of that collective intelligence.</description>
+    </item>
     
     <item>
       <title>Bug Bounty Summer 2019</title>
