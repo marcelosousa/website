@@ -7,10 +7,34 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
-    <lastBuildDate>Thu, 12 Sep 2019 18:18:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 18:50:14 +0200</lastBuildDate>
     
 	    <atom:link href="https://marcelosousa.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Program Analysis for Developers: Part I</title>
+      <link>https://marcelosousa.net/post/program-analysis-for-developers-part-i/</link>
+      <pubDate>Mon, 30 Sep 2019 18:50:14 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/program-analysis-for-developers-part-i/</guid>
+      <description>&lt;p&gt;The vast majority of developers have heard about program analysis techniques but often don’t have a good intuition about how these techniques work. In this series of articles, I will provide a brief overview of the major techniques and hopefully clarify some of their capabilities and limitations.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Check out the full article on &lt;a href=&#34;https://medium.com/swlh/program-analysis-for-developers-part-i-615cd1ee9526&#34; target=&#34;_blank&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Hidden) Inequality among Programmers</title>
+      <link>https://marcelosousa.net/post/hidden-inequality-programmers/</link>
+      <pubDate>Wed, 18 Sep 2019 18:47:09 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/hidden-inequality-programmers/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Code is eating the world&lt;/em&gt; — we have heard it a hundred times. Programmers are the ones producing this code, so a logical question is: &lt;em&gt;what is happening to them?&lt;/em&gt; As usual, the answer depends on the subject but I will argue that &lt;strong&gt;some are getting fat while most are starting to starve&lt;/strong&gt;. I don’t mean physical starvation because they don’t have money to buy food — I’m talking about intellectual starvation in the style of the famous &lt;a href=&#34;https://en.wikipedia.org/wiki/Buridan%27s_ass&#34; target=&#34;_blank&#34;&gt;Buridan’s ass&lt;/a&gt; paradox.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Check out the full article on &lt;a href=&#34;https://medium.com/@marceloabsousa/hidden-inequality-among-programmers-2e95c3cb0a25&#34; target=&#34;_blank&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Software Development Is Complex Communication</title>

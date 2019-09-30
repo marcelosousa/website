@@ -3,19 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://marcelosousa.net/bio/</loc>
-    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://marcelosousa.net/</loc>
-    <lastmod>2019-09-12T18:18:36+02:00</lastmod>
+    <lastmod>2019-09-30T18:50:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://marcelosousa.net/post/</loc>
-    <lastmod>2019-09-12T18:18:36+02:00</lastmod>
+    <lastmod>2019-09-30T18:50:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/post/program-analysis-for-developers-part-i/</loc>
+    <lastmod>2019-09-30T18:50:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/post/hidden-inequality-programmers/</loc>
+    <lastmod>2019-09-18T18:47:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelosousa.net/bio/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcelo Sousa {year}</copyright>
-    <lastBuildDate>Thu, 12 Sep 2019 18:18:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 18:50:14 +0200</lastBuildDate>
     
 	<atom:link href="https://marcelosousa.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Program Analysis for Developers: Part I</title>
+      <link>https://marcelosousa.net/post/program-analysis-for-developers-part-i/</link>
+      <pubDate>Mon, 30 Sep 2019 18:50:14 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/program-analysis-for-developers-part-i/</guid>
+      <description>The vast majority of developers have heard about program analysis techniques but often don’t have a good intuition about how these techniques work. In this series of articles, I will provide a brief overview of the major techniques and hopefully clarify some of their capabilities and limitations.
+Check out the full article on Medium.</description>
+    </item>
+    
+    <item>
+      <title>(Hidden) Inequality among Programmers</title>
+      <link>https://marcelosousa.net/post/hidden-inequality-programmers/</link>
+      <pubDate>Wed, 18 Sep 2019 18:47:09 +0200</pubDate>
+      
+      <guid>https://marcelosousa.net/post/hidden-inequality-programmers/</guid>
+      <description>Code is eating the world — we have heard it a hundred times. Programmers are the ones producing this code, so a logical question is: what is happening to them? As usual, the answer depends on the subject but I will argue that some are getting fat while most are starting to starve. I don’t mean physical starvation because they don’t have money to buy food — I’m talking about intellectual starvation in the style of the famous Buridan’s ass paradox.</description>
+    </item>
     
     <item>
       <title>Software Development Is Complex Communication</title>
